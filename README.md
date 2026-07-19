@@ -1,6 +1,6 @@
 # MSc Computational Linguistics – Semester 1
 
-Welcome to my **MSc Computational Linguistics** Semester 1 repository. This repository contains my coursework, assignments, notes, practice programs, and projects completed during the first semester.
+Welcome to my **MSc Computational Linguistics** Semester 1 repository. This repository contains my coursework, assignments, notes, practice programs, and projects completed during the first semester. Everything in one place 
 
 ## 📚 Contents
 
